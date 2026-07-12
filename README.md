@@ -106,10 +106,10 @@ The system architecture prioritizes:
 
 ## 📸 Interface Preview
 
+![Landign](./screenshots/landing.png)
 ![Dashboard](./screenshots/dashboard.png)
-![Bots](./screenshots/bots.png)
 ![Flows](./screenshots/flows.png)
-![API](./screenshots/api.png)
+![Knowledge](./screenshots/knowledge.png)
 
 ---
 
