@@ -104,6 +104,16 @@ The system architecture prioritizes:
 
 ---
 
+## 🌎 Language Support
+
+SUPPRA is currently available in Spanish.
+
+Internationalization support is already considered in the platform architecture, with English and Portuguese planned for future releases.
+
+The goal is to provide a localized experience for businesses across Latin America and international markets.
+
+---
+
 ## 📸 Interface Preview
 
 ![Landign](./screenshots/landing.png)
