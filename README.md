@@ -1,6 +1,3 @@
-# suppra-public-overview
-Scalable conversational AI platform for building, deploying, and managing intelligent chatbots across multiple channels.
-
 # SUPPRA – Conversational AI SaaS Platform
 
 Production-ready AI SaaS platform designed for chatbot creation, conversational automation, and multi-channel customer interactions.
